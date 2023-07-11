@@ -1,0 +1,148 @@
+<html>
+<head>
+<div id="menu" align="middle">
+<a href="home.html">HOME</a> |
+<a href="contact.html">CONTACT</a> |
+<a href="about.html">ABOUT</a> |
+<a href="login.html">LOG IN</a>
+</div>
+<h1 align="center"><font size="30">VOGUE VILLA</font><h1>
+<title> VOGUE VILLA </title>
+</head>
+<p><marquee bgcolor="#e8aa42"> <font size="5" face="arial">INQUIRE NOW TO GET A DISCOUNTED OFFER!!! INQUIRE NOW TO GET A DISCOUNTED OFFER!!! INQUIRE NOW TO GET A DISCOUNTED OFFER!!! INQUIRE NOW TO GET A DISCOUNTED OFFER!!! INQUIRE NOW TO GET A DISCOUNTED OFFER!!! INQUIRE NOW TO GET A DISCOUNTED OFFER!!! INQUIRE NOW TO GET A DISCOUNTED OFFER!!!</font></marquee></p>
+<div id="menu" align="middle"></div>
+
+
+<style><
+body {background-image: url ('bg.png'); background-repeat: no-repeat; bacground-attachment: fixed; background-size:100% 100%;)
+.second-header {
+position: relative;
+text-align: center;
+}
+.first-house {
+position: absolute;
+text-align: center;
+}
+</style>
+<body background="bg.png">
+<div class="second-header">
+	<div align="center"><img src="house3.jpg"; alt="vogue villa"; height="500px"; width="1000px"; border="5">
+
+	<div class="first-house" style="font-size:11pt;font-family: arial;color:black;text-align:center"><p align="justify"><center>Welcome to Vogue Villa, where opulence and sophistication meet in perfect harmony. Nestled in the heart of an exclusive neighborhood, Vogue Villa is the premier destination for discerning individuals seeking the ultimate boarding experience.</p>
+
+<p align="justify"><center>As the top-ranked boarding house, Vogue Villa sets new standards for elegance and comfort. From the moment you step through the grand entrance, you are greeted by a stunning interior meticulously designed to indulge your senses. The exquisite furnishings, tasteful decor, and carefully curated artwork create an ambiance that exudes refinement and refinement.</p>
+
+<p align="justify"><center>Our luxurious rooms offer a sanctuary of tranquility, featuring plush bedding, state-of-the-art amenities, and breathtaking views of the surrounding landscape. Each room is a masterpiece, meticulously crafted to provide the utmost comfort and privacy, ensuring you feel right at home.</p>
+
+<p align="justify"><center>At Vogue Villa, we understand that a true home is not just a physical space; it's a community of like-minded individuals. Our residents enjoy a vibrant social atmosphere where friendships flourish. Engage in stimulating conversations in our elegant common areas, savor gourmet meals prepared by our talented chefs, or unwind in the tranquil gardens.</p>
+
+<p align="justify"><center>Our dedicated staff is committed to providing unparalleled service, catering to your every need with utmost professionalism and discretion. Whether it's organizing exclusive events, arranging transportation, or fulfilling any special requests, we go above and beyond to exceed your expectations.</p>
+
+<p align="justify"><center>Vogue Villa's prime location offers convenient access to the finest dining, shopping, and cultural attractions the city has to offer. Immerse yourself in the vibrant urban scene during the day, and retreat to the serenity of Vogue Villa when the day's adventures come to a close.</p></div>
+</div>
+
+<div align="left">
+<details><summary>FORMER TENANT'S REVIEW ABOUT COSMO BOARDING HOUSE</summary>
+<font color="red" face="11"><u>Bea Bunda</u></font>: <blockquote><font face="verdana" color="#363636"><p align="justify"><i><q>Vogue Villa truly lives up to its name as a luxurious haven. From the moment I stepped through the door, I was enamored by the sophisticated and stylish design that exuded elegance. The spacious and meticulously decorated rooms provided a sense of opulence and comfort, making it an absolute pleasure to come home to. With its prime location and top-notch amenities, Vogue Villa offers an unparalleled living experience that will exceed the expectations of even the most discerning individuals.
+</q></i></font></blockquote>
+
+
+<div align="left">
+<font size="2">Bedspace</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">1 Bed</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">2 Beds</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">3 Beds</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">4 Beds</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">5 Beds</font><br>
+
+<div align="left">
+<font size="2">Customize</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">0 - 15 sq. m.</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">15 - 30 sq. m.</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">30 - 45 sq. m.</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">45 - 60 sq. m.</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">60 - 75 sq. m.</font><br>
+
+<div align="left">
+<font size="2">Bathrooms</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">1.Bathroom</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">2 Bathrooms</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">3 Bathrooms</font><br>
+
+<input type="submit"></input>
+
+</div>
+<hr size="4" color="black"></hr>
+<font size="5.5"> <span style="background-color:#e8aa42">How would you rate the Vogue Villa?</span></font><br>
+<input type="radio" style="font-size:20pt;height:15px;width:80px;"></input>&#9733 &#9733 &#9733 &#9733 &#9733<br>
+<input type="radio" style="font-size:20pt;height:15px;width:80px;"></input>&#9733 &#9733 &#9733 &#9733<br>
+<input type="radio" style="font-size:20pt;height:15px;width:80px;"></input>&#9733 &#9733 &#9733<br>
+<input type="radio" style="font-size:20pt;height:15px;width:80px;"></input>&#9733 &#9733<br>
+<input type="radio" style="font-size:20pt;height:15px;width:80px;"></input>&#9733<br><html>
+<head>
+<h1 align="center"><font size="30">VOGUE VILLA</font><h1>
+<title> VOGUE VILLA </title>
+</head>
+<p><marquee bgcolor="#e8aa42"> <font size="5" face="arial">INQUIRE NOW TO GET A DISCOUNTED OFFER!!! INQUIRE NOW TO GET A DISCOUNTED OFFER!!! INQUIRE NOW TO GET A DISCOUNTED OFFER!!! INQUIRE NOW TO GET A DISCOUNTED OFFER!!! INQUIRE NOW TO GET A DISCOUNTED OFFER!!! INQUIRE NOW TO GET A DISCOUNTED OFFER!!! INQUIRE NOW TO GET A DISCOUNTED OFFER!!!</font></marquee></p>
+<div id="menu" align="middle"></div>
+
+
+<style><
+body {background-image: url ('bg.png'); background-repeat: no-repeat; bacground-attachment: fixed; background-size:100% 100%;)
+.second-header {
+position: relative;
+text-align: center;
+}
+.first-house {
+position: absolute;
+text-align: center;
+}
+</style>
+<body background="bg.png">
+<div class="second-header">
+	<div align="center"><img src="house3.jpg"; alt="vogue villa"; height="500px"; width="1000px"; border="5">
+
+	<div class="first-house" style="font-size:11pt;font-family: arial;color:black;text-align:center"><p align="justify"><center>Welcome to Vogue Villa, where opulence and sophistication meet in perfect harmony. Nestled in the heart of an exclusive neighborhood, Vogue Villa is the premier destination for discerning individuals seeking the ultimate boarding experience.</p>
+
+<p align="justify"><center>As the top-ranked boarding house, Vogue Villa sets new standards for elegance and comfort. From the moment you step through the grand entrance, you are greeted by a stunning interior meticulously designed to indulge your senses. The exquisite furnishings, tasteful decor, and carefully curated artwork create an ambiance that exudes refinement and refinement.</p>
+
+<p align="justify"><center>Our luxurious rooms offer a sanctuary of tranquility, featuring plush bedding, state-of-the-art amenities, and breathtaking views of the surrounding landscape. Each room is a masterpiece, meticulously crafted to provide the utmost comfort and privacy, ensuring you feel right at home.</p>
+
+<p align="justify"><center>At Vogue Villa, we understand that a true home is not just a physical space; it's a community of like-minded individuals. Our residents enjoy a vibrant social atmosphere where friendships flourish. Engage in stimulating conversations in our elegant common areas, savor gourmet meals prepared by our talented chefs, or unwind in the tranquil gardens.</p>
+
+<p align="justify"><center>Our dedicated staff is committed to providing unparalleled service, catering to your every need with utmost professionalism and discretion. Whether it's organizing exclusive events, arranging transportation, or fulfilling any special requests, we go above and beyond to exceed your expectations.</p>
+
+<p align="justify"><center>Vogue Villa's prime location offers convenient access to the finest dining, shopping, and cultural attractions the city has to offer. Immerse yourself in the vibrant urban scene during the day, and retreat to the serenity of Vogue Villa when the day's adventures come to a close.</p></div>
+</div>
+<div align="left">
+<font size="2">Bedspace</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">1 Bed</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">2 Beds</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">3 Beds</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">4 Beds</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">5 Beds</font><br>
+
+<div align="left">
+<font size="2">Customize</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">0 - 15 sq. m.</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">15 - 30 sq. m.</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">30 - 45 sq. m.</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">45 - 60 sq. m.</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">60 - 75 sq. m.</font><br>
+
+<div align="left">
+<font size="2">Bathrooms</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">1.Bathroom</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">2 Bathrooms</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">3 Bathrooms</font><br>
+
+<input type="submit"></input>
+
+</div>
+<hr size="4" color="black"></hr>
+<font size="5.5"> <span style="background-color:#e8aa42">How would you rate the Vogue Villa?</span></font><br>
+<input type="radio" style="font-size:20pt;height:15px;width:80px;"></input>&#9733 &#9733 &#9733 &#9733 &#9733<br>
+<input type="radio" style="font-size:20pt;height:15px;width:80px;"></input>&#9733 &#9733 &#9733 &#9733<br>
+<input type="radio" style="font-size:20pt;height:15px;width:80px;"></input>&#9733 &#9733 &#9733<br>
+<input type="radio" style="font-size:20pt;height:15px;width:80px;"></input>&#9733 &#9733<br>
+<input type="radio" style="font-size:20pt;height:15px;width:80px;"></input>&#9733<br>

@@ -1,0 +1,148 @@
+<html>
+<title> BHFinder </title>
+<head>
+</head>
+<style>
+.first-header {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.second-header {
+  position: relative;
+  text-align: center;
+}
+.third-header {
+  position: relative;
+  text-align: left;
+  color: white;
+}
+.fourth-header {
+  position: relative;
+  text-align: left;
+  color: white;
+}
+.first-house {
+  position: absolute;
+  top: 50px;
+  right: 810px;
+}	
+.second-house {
+  position: absolute;
+  top: 750px;
+  right: 610px;
+}
+.third-house {
+  position: absolute;
+  top: 1350px;
+  right: 800px;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.top-center {
+  position: absolute;
+  top: 100px;
+  right: 300px;
+}
+.top-left {
+  position: absolute;
+  top: 20px;
+  left: 50px;
+  font-size:18pt;
+}
+.universities {
+  position: absolute;
+  top: 50px;
+  right: 1000px;
+}
+.twitter {
+  position: absolute;
+  top: 20px;
+  left: 40px;
+}
+.facebook {
+  position: absolute;
+  top: 20px;
+  left: 390px;
+}
+.instagram {
+  position: absolute;
+  top: 20px;
+  right: 390px;
+}
+.skype {
+  position: absolute;
+  top: 20px;
+  right: 40px;
+}
+body {background-image: url ('bg.png'); background-repeat: no-repeat; background-attachment: fixed; background-size: 100% 100%;}
+</style>
+<p><img src="bh1.png"; height="200px"; width="400px" leftmargin="100px" <div id="menu" align="middle">
+<a href="home.html">HOME</a> |
+<a href="contact.html">CONTACT</a> |
+<a href="about.html">ABOUT</a> |
+<a href="login.html">LOG IN</a>
+</div></p>
+<body background="bg.png">
+<pre>
+Welcome to <b>BH Finder</b>, the premier online destination for finding the perfect boarding house accommodations. Our user-friendly website is designed to 
+connect individuals seeking a comfortable and welcoming living experience with a diverse range of boarding house options.
+
+Finding the ideal boarding house has never been easier. With our intuitive search function, you can effortlessly browse through a curated selection of boarding 
+houses in various cities, each offering its own unique charm and amenities. Whether you're a student, a young professional, or a traveler, our website caters to your 
+specific needs and preferences.
+
+Our comprehensive listing pages provide detailed information about each boarding house, allowing you to make informed decisions. Explore high-quality images showcasing 
+the rooms, communal areas, and facilities, giving you a glimpse into the inviting atmosphere of each boarding house. Get to know the features, amenities, and services 
+offered, ensuring that your living experience aligns with your desires.
+
+Navigating our website is a breeze. Our intuitive interface allows you to filter your search based on location, budget, room type, and amenities. With just a few clicks, 
+you can narrow down your options and find the perfect boarding house that suits your lifestyle and requirements.
+
+In addition to the convenience of searching and comparing boarding houses, our website also provides valuable resources and information. Read through helpful articles 
+and guides on topics such as choosing the right accommodation, tips for a seamless move-in experience, and fostering a sense of community within a boarding house setting. 
+We aim to support you every step of the way and ensure that your boarding house experience is enjoyable and fulfilling.
+
+Booking your ideal boarding house is quick and hassle-free through our secure online platform. Reserve your room with confidence, knowing that our website prioritizes 
+the privacy and security of your personal information. We strive to provide a seamless booking process, making your transition to your new boarding house as smooth as possible.
+
+At <b>BH Finder</b>, we are committed to exceptional customer service. Our dedicated support team is available to address any inquiries or concerns you may have during 
+your search or booking process. We are here to assist you in finding the perfect boarding house that exceeds your expectations.
+
+Join our thriving community of residents who have discovered the convenience, comfort, and camaraderie that boarding houses offer. Start your journey towards finding your 
+ideal home away from home today by visiting our website. <b>BH Finder</b> awaits you with a world of possibilities and a warm welcome.
+</pre>
+
+<div class="fourth-header">
+	<div><img src="rectangle.png"; alt="rectangle"; height="200px"; width="100%"></div>
+	<div class="twitter" style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);font-size:25pt">
+	Follow on Twitter</div>
+	<a href="https://twitter.com/"><img src="twitter.png" height="70px"; width="70px"alt="Overlay Image" style="position: absolute; top: 80; left: 100;" /></a>
+	<div class="facebook" style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);font-size:25pt">
+	Like on Facebook</div>
+	<a href="https://facebook.com/"><img src="facebook.png" height="70px"; width="70px"alt="Overlay Image" style="position: absolute; top: 80; left: 450;" /></a>
+	<div class="instagram" style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);font-size:25pt">
+	Follow on Instagram</div>
+	<a href="https://instagram.com/"><img src="instagram.png" height="70px"; width="70px"alt="Overlay Image" style="position: absolute; top: 80; right: 500;" /></a>
+	<div class="skype" style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);font-size:25pt">
+	Message on Skype</div>
+	<a href="https://skype.com/"><img src="skype.png" height="70px"; width="70px"alt="Overlay Image" style="position: absolute; top: 80; right: 130;" /></a>
+	
+</div>
+	<div id="menu" align="middle" style="font-family:Arial"  hspace="90">
+	<a href="/index.htm">COPYRIGHT 2023. BHFINDER ALL RIGHTS RESERVED</a> |
+	<a href="/about/contact_us.htm">ABOUT</a> |
+	<a href="/about/index.htm">TERMS & CONDITIONS</a> |
+	<a href="/about/index.htm">PRIVACY POLICY</a> |
+	<a href="/about/index.htm">COOKIES POLICY</a> |
+	<a href="/about/index.htm">EXPLORE PLACES</a> |
+	<a href="/about/index.htm">GOOGLE+</a>
+	</div>
+
+
+</body>
+</html> 

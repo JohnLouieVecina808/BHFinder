@@ -1,0 +1,79 @@
+<html>
+<head>
+<h1 align="center"><font size="30">STYLE HAVEN</font><h1>
+<title> VOGUE VILLA </title>
+</head>
+<p><marquee bgcolor="#e8aa42"> <font size="5" face="arial">INQUIRE NOW TO GET A DISCOUNTED OFFER!!! INQUIRE NOW TO GET A DISCOUNTED OFFER!!! INQUIRE NOW TO GET A DISCOUNTED OFFER!!! INQUIRE NOW TO GET A DISCOUNTED OFFER!!! INQUIRE NOW TO GET A DISCOUNTED OFFER!!! INQUIRE NOW TO GET A DISCOUNTED OFFER!!! INQUIRE NOW TO GET A DISCOUNTED OFFER!!!</font></marquee></p>
+<div id="menu" align="middle"></div>
+
+
+<style><
+body {background-image: url ('bg.png'); background-repeat: no-repeat; bacground-attachment: fixed; background-size:100% 100%;)
+.second-header {
+position: relative;
+text-align: center;
+}
+.first-house {
+position: absolute;
+text-align: center;
+}
+</style>
+<body background="bg.png">
+<div id="menu" align="middle">
+<a href="home.html">HOME</a> |
+<a href="contact.html">CONTACT</a> |
+<a href="about.html">ABOUT</a> |
+<a href="login.html">LOG IN</a>
+</div>
+<div class="second-header">
+	<div align="center"><img src="house2.jpg"; alt="vogue villa"; height="500px"; width="1000px"; border="5">
+
+	<div class="first-house" style="font-size:11pt;font-family: arial;color:black;text-align:center"><p align="justify"><center>Welcome to Style Haven, where comfort meets community. Situated in the heart of Bacolod City, our boarding house offers a unique and enriching living experience for individuals seeking a warm and inviting place to call home.</p>
+
+<p align="justify"><center>At Style Haven, we prioritize your comfort and convenience. Step into our tastefully designed common areas, carefully curated to provide a welcoming ambiance. The communal lounge is a cozy retreat, perfect for relaxing, socializing, or engaging in lively conversations with fellow residents. Our fully equipped kitchen allows you to prepare your favorite meals and share culinary experiences with friends.</p>
+
+<p align="justify"><center>Choose from a range of well-furnished private rooms that cater to your individual needs. Each room is thoughtfully designed to offer a serene and comfortable environment, featuring modern amenities and ample storage space. Whether you're a student, a young professional, or a traveler exploring the area, our rooms provide the perfect sanctuary for rest and rejuvenation.</p>
+
+<p align="justify"><center>In addition to comfortable living spaces, we offer a variety of shared facilities to enhance your stay. Stay active and maintain a healthy lifestyle in our on-site fitness center. Enjoy the convenience of laundry facilities and high-speed internet access throughout the premises. For those seeking tranquility, our outdoor garden or rooftop terrace offers a serene escape to unwind and enjoy the fresh air.</p>
+
+<p align="justify"><center>We believe that community plays a vital role in fostering a fulfilling living experience. At Style Haven, you'll have the opportunity to connect with a diverse group of residents from various backgrounds. Our communal events and social activities are designed to bring people together, allowing you to forge meaningful friendships and create lasting memories.
+
+Rest assured, your safety and security are our utmost priority. Our boarding house is equipped with modern security systems and 24/7 surveillance to ensure a secure living environment for all residents.
+
+Located within close proximity to SM-Bacolod, our boarding house provides easy access to transportation, dining options, shopping centers, and cultural attractions. Immerse yourself in the vibrant surroundings and take advantage of all that Bacolod City has to offer.
+
+At Style Haven, our dedicated and friendly staff is committed to providing exceptional service, ensuring that your stay is comfortable and hassle-free. From regular maintenance to responsive assistance, we strive to exceed your expectations and create a supportive living community.</p>
+</div>
+</div>
+<div align="left">
+<font size="2">Bedspace</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">1 Bed</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">2 Beds</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">3 Beds</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">4 Beds</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">5 Beds</font><br>
+
+<div align="left">
+<font size="2">Customize</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">0 - 15 sq. m.</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">15 - 30 sq. m.</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">30 - 45 sq. m.</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">45 - 60 sq. m.</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">60 - 75 sq. m.</font><br>
+
+<div align="left">
+<font size="2">Bathrooms</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">1.Bathroom</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">2 Bathrooms</font><br>
+<input type="checkbox" style="font-size:20pt;height:10px;width:60px;"></input><font size="2">3 Bathrooms</font><br>
+
+<input type="submit"></input>
+
+</div>
+<hr size="4" color="black"></hr>
+<font size="5.5"> <span style="background-color:#e8aa42">How would you rate the Cosmo Boarding House?</span></font><br>
+<input type="radio" style="font-size:20pt;height:15px;width:80px;"></input>&#9733 &#9733 &#9733 &#9733 &#9733<br>
+<input type="radio" style="font-size:20pt;height:15px;width:80px;"></input>&#9733 &#9733 &#9733 &#9733<br>
+<input type="radio" style="font-size:20pt;height:15px;width:80px;"></input>&#9733 &#9733 &#9733<br>
+<input type="radio" style="font-size:20pt;height:15px;width:80px;"></input>&#9733 &#9733<br>
+<input type="radio" style="font-size:20pt;height:15px;width:80px;"></input>&#9733<br>
